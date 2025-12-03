@@ -34,18 +34,18 @@ Data files are provided in `.npy` (NumPy arrays).
 
 Each file in this release follows the naming pattern:
 
-*[GPR_mean / GPR_random]_[binary_parameters / mode_amplitudes]_[aligned / precessing]_[6ms / 12ms][optional:_reweighted].npy*
+*[mean_GPR / random_GPR]_[binary_parameters / mode_amplitudes]_[aligned / precessing]_[6ms / 12ms][optional:_reweighted].npy*
 
 Below is a detailed explanation of each component.
 
 
 ## 1. GPR options
 
-### *GPR_mean*
+### *mean_GPR*
   Posterior samples obtained using GPR mean predictions for the remnant mass and spin and for the QNM amplitudes.  
   Used to generate Figures 1-2 in the main text.
 
-### *GPR_random*
+### *random_GPR*
   Posterior samples obtained by sampling from the full GPR predictive distributions, propagating the GPR uncertainties.  
   Used to generate Figures 4-5 in Appendix D.
 
