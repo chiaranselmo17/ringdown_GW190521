@@ -60,12 +60,12 @@ Below is a detailed explanation of each component.
     - ***aligned*** model: `{chi_1z, chi_2z}`
     - ***precessing*** model: `{chi_1, cos(gamma_1), phi_1, chi_2, cos(gamma_2), phi_2}`
   - Mode phases:  
-  `{phi_{220}, phi_{330}, phi_{210}, phi_{2-20}, phi_{3-30}, phi_{2-10}}`
+  `{phi_220, phi_330, phi_210, phi_2-20, phi_3-30, phi_2-10}`
 
 ### *mode_amplitudes*
   Posterior samples for:
   - ***aligned*** model: `{A_220, A_330, A_210}`
-  - ***precessing*** model: `{A_{2±2,0}, A_{3±3,0}, A_{2±1,0}}`
+  - ***precessing*** model: `{A_2±20, A_3±30, A_2±10}`
 
 Note: Some of these parameters were combined or omitted when producing figures.
 
