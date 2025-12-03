@@ -41,18 +41,18 @@ Below is a detailed explanation of each component.
 
 ## 1. GPR options
 
-### *GPR_mean_\**
+### *GPR_mean_*
   Posterior samples obtained using GPR mean predictions for the remnant mass and spin and for the QNM amplitudes.  
   Used to generate Figures 1-2 in the main text.
 
-### *GPR_random_\**
+### *GPR_random_*
   Posterior samples obtained by sampling from the full GPR predictive distributions, propagating the GPR uncertainties.  
   Used to generate Figures 4-5 in Appendix D.
 
 
 ## 2. Parameter sets and models
 
-### *binary_parameters_\**
+### *binary_parameters_*
   Posterior samples for:
   - Common binary parameters:  
   `{d_L, cos(iota), M, q}`
@@ -62,7 +62,7 @@ Below is a detailed explanation of each component.
   - Mode phases:  
   `{phi_{220}, phi_{330}, phi_{210}, phi_{2-20}, phi_{3-30}, phi_{2-10}}`
 
-### *mode_amplitudes_\**
+### *mode_amplitudes_*
   Posterior samples for:
   - ***aligned*** model: `{A_220, A_330, A_210}`
   - ***precessing*** model: `{A_{2±2,0}, A_{3±3,0}, A_{2±1,0}}`
