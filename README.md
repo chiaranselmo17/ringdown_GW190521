@@ -2,7 +2,7 @@
 
 This repository accompanies
 **_Black-hole ringdown with templates capturing spin precession: a critical re-analysis of GW190521_**,  
-by *Chiara Anselmo, Costantino Pacilio, and Davide Gerosa*, XXX.
+by *Chiara Anselmo, Costantino Pacilio, and Davide Gerosa*, https://arxiv.org/abs/2512.05193 .
 
 It provides the posterior samples used to generate the figures and results in the paper.
 
@@ -11,9 +11,9 @@ It provides the posterior samples used to generate the figures and results in th
 ## Credits
 
 You are welcome to use these data in your research.  
-If you do so, **please cite the paper above**.
+If you do so, please cite the paper above.
 
-If you download and directly use files from this release, **also cite the dataset DOI: XXX**.
+If you download and directly use files from this release, also cite the dataset DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17857210.svg)](https://doi.org/10.5281/zenodo.17857210) .
 
 ---
 
